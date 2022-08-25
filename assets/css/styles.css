@@ -971,20 +971,27 @@ header {
     outline: none !important; }
 
 .btn-primary {
-  background: #CA82F8;
+  background: #f9ba0c;
   color: #fff;
-  border: 2px solid #CA82F8; }
+  border: 2px solid #feab10; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #d49af9 !important;
-    border-color: #d49af9 !important; }
+    background: #f9ba0c !important;
+    border-color: #f9ba0c !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4d4d4d;
     border: 1px solid #d9d9d9; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-      background: #CA82F8;
+      background: #f9ba0c;
       color: #fff; }
-
+ #wrapper123{
+        width:600px;
+        margin:10px auto 50px auto;
+        height:400px;
+        position:relative;
+        color:#fff;
+        text-shadow:rgba(0,0,0,0.1) 2px 2px 0px;
+      }
 .btn-success {
   background: #5cb85c;
   color: #fff;
